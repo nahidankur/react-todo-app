@@ -1,6 +1,6 @@
 # react-todo-app
 
-# A Todo App made with `Reactjs` and `Tailwindcss`
+ A Todo App made with `Reactjs` and `Tailwindcss`
 
 # Usage
 
