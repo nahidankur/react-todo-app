@@ -14,4 +14,4 @@ If you face any issue while installing the dependencies especially `tailwindcss`
 
 [Live preview is available here][link]
 
-[link] : https://todo-react-app-v1.netlify.app/
+[link]: https://todo-react-app-v1.netlify.app/
