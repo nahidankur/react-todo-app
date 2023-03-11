@@ -1,6 +1,4 @@
-# react-todo-app
-
- A Todo App made with `Reactjs` and `Tailwindcss`
+# A React ToDo App made with `Reactjs` and `Tailwindcss`
 
 # Usage
 
@@ -12,5 +10,5 @@ Then visit `http://localhost:3000` to use the app.
 
 If you face any issue while installing the dependencies especially `tailwindcss`, please follow the documentation of official tailwindcss release.
 
-# [Live preview is available here][https://todo-react-app-v1.netlify.app/]
+# [Live Preview Here](https://todo-react-app-v1.netlify.app/)
 
