@@ -12,6 +12,5 @@ Then visit `http://localhost:3000` to use the app.
 
 If you face any issue while installing the dependencies especially `tailwindcss`, please follow the documentation of official tailwindcss release.
 
-[Live preview is available here][link]
+# [Live preview is available here][https://todo-react-app-v1.netlify.app/]
 
-[link]: https://todo-react-app-v1.netlify.app/
